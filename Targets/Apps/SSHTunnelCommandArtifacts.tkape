@@ -2,7 +2,7 @@ Description: Collect command history, scripts, and SSH client artifacts useful f
 Author: Aashiq Ahmed
 Version: 1.0
 Id: 4d7c1c5b-7b9d-4c8c-a8dd-2f7d51b29011
-
+RecreateDirectories: true
 Targets:
   -
     Name: PowerShell ConsoleHost history
